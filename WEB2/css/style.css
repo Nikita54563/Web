@@ -19,7 +19,7 @@ body {
     border-radius:  0 0 20px 20px;
     display: flex;
     justify-content: space-between;
-    padding: 2px;
+    padding: 14px;
     color: rgb(255, 255, 255);
     z-index: 2;
     position: fixed;
@@ -342,6 +342,7 @@ overflow: hidden;
 
 .contact form {
     margin-top: -10px;
+    margin-right: 320px;
     display: flex;
     width: 27%;
     padding: 50px;
